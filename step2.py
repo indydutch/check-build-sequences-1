@@ -1,2 +1,2 @@
-if (False):
+if (True):
     raise Exception("Failed purposefully")
